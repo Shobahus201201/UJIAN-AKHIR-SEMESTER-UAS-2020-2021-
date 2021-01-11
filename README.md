@@ -137,4 +137,4 @@ print("Keluar")
 ```
 * hasil dari program yang telah dibuat
 
-![baru](Foto/shoba2.png)
+![baru](Foto/shoba2.PNG)
